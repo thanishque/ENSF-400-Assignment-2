@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "nginx_load_balancer",
+			"path": "."
+		},
+		{
+			"name": "app1",
+			"path": "../../Downloads/ensf400-lab5-ansible-main/managed-host/alpine/app1"
+		},
+		{
+			"name": "app2",
+			"path": "../../Downloads/ensf400-lab5-ansible-main/managed-host/alpine/app2"
+		},
+		{
+			"name": "app3",
+			"path": "../../Downloads/ensf400-lab5-ansible-main/managed-host/alpine/app3"
+		}
+	],
+	"settings": {}
+}
